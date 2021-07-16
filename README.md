@@ -1,1 +1,21 @@
 # PyCitySchools
+
+Purpose of this analysis is to visualize the data with charts and graphs of school district data. Jupyter Notebook is used through the open-source distribution software called Anaconda. Python is the programming language with Pandas library. Two CSV files will have data inspected and cleaned, merge data sets, and perform mathematical calculations. 
+
+## Results
+
+### How is the district summary affected?
+
+### How is the school summary affected?
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+### How does replacing the ninth-grade scores affect the following:
+
+### Math and reading scores by grade
+
+### Scores by school spending
+
+### Scores by school size
+
+### Scores by school type
