@@ -1,13 +1,9 @@
-Overview of the school district analysis: Explain the purpose of this analysis.
+## Analysis of PyCitySchools:
+Looking at a large data set of students, grades, and schools to summarize into an easy to read clear data frame wherein more specific questions can be asked.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+### Results:
+Charter schools have the high passing rate despite the lower student spend and lower school budget.
+District schools perform worse and has failing classes. 
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Summary:
+Charter schools have an advantage in 4 key areas. 1) They do not typically have a special needs program. 2) They choose their students. 3) Charter schools also typically have smaller class sizes. 4) Concentration of resources for specific education needs. 
